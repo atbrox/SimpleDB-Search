@@ -1,0 +1,10 @@
+Code for a simple inverted index on top of Amazon's SimpleDB, check out
+http://atbrox.com/2009/10/27/unstructuredsearchforsimpledb/ for an overview
+
+note: this code requires some libraries, e.g.
+- http://github.com/sixapart/python-simpledb 
+- mockito for python 
+
+Contact opensource@atbrox.com for more information
+
+
